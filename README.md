@@ -1,1 +1,2 @@
-﻿# Mis_Notas
+﻿# Mis Notas
+ Apuntes personales
